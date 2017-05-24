@@ -1,2 +1,2 @@
 # Sound-Maker
-Creates sound using a CNN
+Creates sound using a RBM
